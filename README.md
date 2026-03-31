@@ -2,6 +2,10 @@
 
 TypoKids is a colorful, interactive, and powerful full-stack web application designed to help children (ages 6–14) learn and master typing skills through engaging games, challenges, and a rewarding gamification system.
 
+## 🎮 Demo
+https://typokids.netlify.app/
+
+
 ![TypoKids Banner](https://picsum.photos/seed/typing/1200/400)
 
 ## 🎯 Goal
